@@ -272,7 +272,7 @@ const handleLoadMore = ()=>{
             <img src={Guy} alt="" className="testifyer-pic" />
             <p className="testifiyer-name">Michael Levine </p>
           </div>
-          <p className="testimony">"Working with Deb has been an absolute privilege. Her energy, expertise, and passion for building thriving communities make her an exceptional project manager."</p>
+          <p className="testimony">"Working with Deb has been an absolute privilege. Her energy, expertise, and passion for building thriving communities make her an exceptional project manager, i will recomend her anytime, anyday!"</p>
         </div>
        
       </div>
